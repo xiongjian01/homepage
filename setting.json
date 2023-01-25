@@ -1,0 +1,46 @@
+{
+    "title": "Jayhrnの主页",
+    "description": "一个默默无闻的主页",
+    "keywords": "Jayhrn,个人主页",
+    "author": "Jayhrn",
+    "logo_img": "./img/icon/logo.png",
+    "logo_text_1": "Jayhrn",
+    "logo_text_2": "com",
+    "github": "Jayhrn",
+    "qq": "1569624265",
+    "email": "1569624265@qq.com",
+    "bilibili": "340543148",
+    "facebook": "bottom_user",
+    "link_1": [
+        "https://blog.jayhrn.com/",
+        "fa-solid fa-blog",
+        "博客"
+    ],
+    "link_2": [
+        "https://tongji.baidu.com/",
+        "fa-solid fa-cloud",
+        "统计"
+    ],
+    "link_3": [
+        "https://music.163.com/",
+        "fa-solid fa-music",
+        "音乐"
+    ],
+    "link_4": [
+        "https://www.jayhrn.com/",
+        "fa-solid fa-compass",
+        "起始页"
+    ],
+    "link_5": [
+        "https://blog.jayhrn.com/stars/",
+        "fa-solid fa-book-bookmark",
+        "网址集"
+    ],
+    "link_6": [
+        "https://jayhrn.com/",
+        "fa-solid fa-flask",
+        "实验室"
+    ],
+    "Copyright_text": "Jayhrn",
+    "beian": "嘻嘻，还没有备案噢\uD83E\uDD2D"
+}
