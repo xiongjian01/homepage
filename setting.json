@@ -1,18 +1,18 @@
 {
     "title": "Jayhrnの主页",
     "description": "一个默默无闻的主页",
-    "keywords": "Jayhrn,个人主页",
-    "author": "Jayhrn",
+    "keywords": "逆光飞行,个人主页",
+    "author": "逆光飞行",
     "logo_img": "./img/icon/logo.png",
-    "logo_text_1": "Jayhrn",
+    "logo_text_1": "逆光飞行",
     "logo_text_2": "com",
-    "github": "Jayhrn",
-    "qq": "1569624265",
-    "email": "1569624265@qq.com",
-    "bilibili": "340543148",
+    "github": "xiongjia01",
+    "qq": "6960152",
+    "email": "6960152@qq.com",
+    "bilibili": "1060806764",
     "facebook": "bottom_user",
     "link_1": [
-        "https://blog.jayhrn.com/",
+        "https://blog.i98.cc/",
         "fa-solid fa-blog",
         "博客"
     ],
@@ -27,17 +27,17 @@
         "音乐"
     ],
     "link_4": [
-        "https://www.jayhrn.com/",
+        "https://www.i98.com/",
         "fa-solid fa-compass",
         "起始页"
     ],
     "link_5": [
-        "https://blog.jayhrn.com/stars/",
+        "https://blog.i98.com/stars/",
         "fa-solid fa-book-bookmark",
         "网址集"
     ],
     "link_6": [
-        "https://jayhrn.com/",
+        "https://i98.com/",
         "fa-solid fa-flask",
         "实验室"
     ],
